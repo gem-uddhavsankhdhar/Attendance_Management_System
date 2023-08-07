@@ -22,5 +22,4 @@ public class SwaggerConfigFile {
                 .paths(PathSelectors.any())
                 .build();
     }
-
 }
